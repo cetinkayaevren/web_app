@@ -1,3 +1,11 @@
+# Web App
+
+author: Evren Çetinkaya
+
+-This website includes info about the best NBA basketball player.
+
+-You can run this code via any web browser.
+
 # Your Assignment Repository
 
 This is the skeleton code for your assignment repository. See the assignment PDF for more details.
